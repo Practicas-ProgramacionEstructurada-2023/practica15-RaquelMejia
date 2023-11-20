@@ -1,0 +1,4 @@
+Nombre del Paciente: Raquel Mejia
+Fecha de Cita: 19/11/2023 23:23:00
+Razón de Consulta: Limpieza
+Costo de Consulta: 40
